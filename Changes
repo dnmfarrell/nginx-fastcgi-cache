@@ -1,4 +1,7 @@
 Revision history for Nginx-FastCGI-Cache
+0.010   2014/08/16
+        -Add meta link to GitHub
+
 0.009   2014/08/16
         -Updated README
         -Moved to Github for #cpanday
